@@ -1,0 +1,21 @@
+{
+    "name": "react-app",
+    "version": "1.0.0",
+    "description": "A react boilerplate template from boilerplatee",
+    "main": "index.js",
+    "type": "module",
+    "private": true,
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "vite": "^4.0.0",
+        "@vitejs/plugin-react": "^4.0.0"
+    },
+    "scripts": {
+        "start": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    }
+}
