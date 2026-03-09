@@ -4,5 +4,4 @@
 
 This Repository contains
 - React Template
-- React with Tailwind Template
 - Vue Template
